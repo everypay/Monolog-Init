@@ -1,4 +1,4 @@
-Monolog-Init
+Monolog-Init Test
 ============
 
 Very basic and light Dependency Injector Container for Monolog
